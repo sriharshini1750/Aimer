@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Aimer.Console/Aimer.Console.csproj" />
+  <Project Path="Aimer/Aimer.Core/Aimer.Core.csproj" />
+  <Project Path="Aimer/Aimer.Infrastructure/Aimer.Infrastructure.csproj" />
+  <Project Path="Aimer/Aimer.Server/Aimer.Server.csproj" />
+</Solution>
